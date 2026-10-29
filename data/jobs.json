@@ -1,0 +1,1345 @@
+{
+ "collected_at": "2026-10-28 11:49",
+ "source": "alio-site",
+ "targets": {
+  "C0221": "한국수자원공사",
+  "C0220": "한국수력원자력",
+  "C0082": "한국서부발전",
+  "C0259": "한국중부발전",
+  "C0042": "한국남동발전",
+  "C0043": "한국남부발전",
+  "C0066": "한국동서발전",
+  "C0400": "한국환경공단",
+  "C0046": "한국농어촌공사",
+  "C0148": "한국가스안전공사",
+  "C0147": "한국가스공사",
+  "C0105": "인천국제공항공사",
+  "C0215": "한국석유관리원",
+  "C0261": "한국지역난방공사"
+ },
+ "engine_of": {
+  "C0221": [
+   "kwater",
+   "kwater_intern"
+  ],
+  "C0220": [
+   "khnp",
+   "khnp_intern"
+  ],
+  "C0082": [
+   "wp",
+   "wp_intern"
+  ],
+  "C0259": [
+   "komipo",
+   "komipo_intern"
+  ],
+  "C0042": [
+   "koen",
+   "koen_intern"
+  ],
+  "C0043": [
+   "kospo",
+   "kospo_intern"
+  ],
+  "C0066": [
+   "ewp",
+   "ewp_intern"
+  ],
+  "C0400": [
+   "keco"
+  ],
+  "C0046": [
+   "ekr"
+  ],
+  "C0148": [
+   "kgs"
+  ],
+  "C0147": [
+   "kogas"
+  ],
+  "C0105": [
+   "incheon"
+  ],
+  "C0215": [
+   "kpetro"
+  ],
+  "C0261": []
+ },
+ "jobs": [
+  {
+   "src": "cleaneye",
+   "id": "ce-2026-2007100364-000064",
+   "code": "",
+   "inst": "인천환경공단",
+   "title": "인천환경공단 공고 제2026-218호 2026년 3차 공개경쟁채용 공고",
+   "hire": "정규직",
+   "se": "신입",
+   "ncs": "",
+   "region": "인천",
+   "edu": "",
+   "nope": null,
+   "local": true,
+   "beg": "2026-10-26",
+   "end": "2026-11-04",
+   "url": "https://job.cleaneye.go.kr/user/ypCareersData.do?empyear=2026&ypEntId=2007100364&entSeq=000064",
+   "src_url": "",
+   "target": false,
+   "first_seen": "2026-10-28",
+   "new": true
+  },
+  {
+   "src": "alio",
+   "id": "alio-306250",
+   "sn": 306250,
+   "code": "C0035",
+   "inst": "근로복지공단",
+   "title": "[울산병원] 기술기능직(기술_환경관리) 채용 공고",
+   "hire": "정규직",
+   "se": "신입+경력",
+   "ncs": "환경.에너지.안전",
+   "region": "울산",
+   "edu": "학력무관",
+   "nope": 1,
+   "beg": "2026-10-22",
+   "end": "2026-11-05",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=306250",
+   "src_url": "https://www.comwel.or.kr/recruit/hp/main.do",
+   "target": false,
+   "first_seen": "2026-10-28",
+   "new": true
+  },
+  {
+   "src": "alio",
+   "id": "alio-306325",
+   "sn": 306325,
+   "code": "C0043",
+   "inst": "한국남부발전",
+   "title": "한국남부발전(주) 2026년 하반기 체험형인턴 채용공고",
+   "hire": "청년인턴(체험형)",
+   "se": "신입",
+   "ncs": "경영.회계.사무,건설,기계,화학,전기.전자,정보통신,환경.에너지.안전",
+   "region": "부산,인천,세종,강원,경북,경남,제주",
+   "edu": "학력무관",
+   "nope": 122,
+   "beg": "2026-10-27",
+   "end": "2026-11-11",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=306325",
+   "src_url": "https://kospo.machuda.kr",
+   "target": true,
+   "first_seen": "2026-10-28",
+   "new": true
+  }
+ ],
+ "new": [],
+ "seen": {
+  "alio-305987": "2026-10-28",
+  "ce-2026-2007100364-000064": "2026-10-28",
+  "alio-306250": "2026-10-28",
+  "ce-2026-2007100278-000027": "2026-10-28",
+  "ce-2026-2014000008-000066": "2026-10-28",
+  "alio-306325": "2026-10-28"
+ },
+ "compete": {
+  "C0042": {
+   "name": "한국남동발전",
+   "regular": {
+    "n": 2,
+    "latest": {
+     "sn": 303429,
+     "end": "2026-08-18",
+     "year": "2026",
+     "title": "2026년 한국남동발전(주) 하반기 신입사원 채용공고",
+     "group": "대졸수준 신입 일반전형-화학",
+     "aply": 1085,
+     "doc_pass": 237,
+     "doc_ratio": 4.6,
+     "final": null,
+     "final_ratio": null,
+     "steps": 1,
+     "ratio": 4.6
+    },
+    "median_final": null,
+    "n_final": 0,
+    "median_doc": 2.9,
+    "n_doc": 2,
+    "records": [
+     {
+      "sn": 303429,
+      "end": "2026-08-18",
+      "year": "2026",
+      "title": "2026년 한국남동발전(주) 하반기 신입사원 채용공고",
+      "group": "대졸수준 신입 일반전형-화학",
+      "aply": 1085,
+      "doc_pass": 237,
+      "doc_ratio": 4.6,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 4.6
+     },
+     {
+      "sn": 303429,
+      "end": "2026-08-18",
+      "year": "2026",
+      "title": "2026년 한국남동발전(주) 하반기 신입사원 채용공고",
+      "group": "고졸수준 신입 일반전형-화학",
+      "aply": 115,
+      "doc_pass": 90,
+      "doc_ratio": 1.3,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.3
+     }
+    ]
+   }
+  },
+  "C0147": {
+   "name": "한국가스공사",
+   "regular": {
+    "n": 10,
+    "latest": {
+     "sn": 298440,
+     "end": "2026-04-08",
+     "year": "2026",
+     "title": "2026년 상반기 일반직(신입,경력), 연구직 및 별정직 채용공고",
+     "group": "일반직(신입,6급) - 화공",
+     "aply": 1010,
+     "doc_pass": 962,
+     "doc_ratio": 1.0,
+     "final": 17,
+     "final_ratio": 59.4,
+     "steps": 3,
+     "ratio": 59.4
+    },
+    "median_final": 50.5,
+    "n_final": 4,
+    "median_doc": 1.1,
+    "n_doc": 10,
+    "records": [
+     {
+      "sn": 298440,
+      "end": "2026-04-08",
+      "year": "2026",
+      "title": "2026년 상반기 일반직(신입,경력), 연구직 및 별정직 채용공고",
+      "group": "일반직(신입,6급) - 화공",
+      "aply": 1010,
+      "doc_pass": 962,
+      "doc_ratio": 1.0,
+      "final": 17,
+      "final_ratio": 59.4,
+      "steps": 3,
+      "ratio": 59.4
+     },
+     {
+      "sn": 298440,
+      "end": "2026-04-08",
+      "year": "2026",
+      "title": "2026년 상반기 일반직(신입,경력), 연구직 및 별정직 채용공고",
+      "group": "일반직(사회형평(장애),6급) - 화공",
+      "aply": 17,
+      "doc_pass": 16,
+      "doc_ratio": 1.1,
+      "final": 3,
+      "final_ratio": 5.7,
+      "steps": 3,
+      "ratio": 5.7
+     },
+     {
+      "sn": 298440,
+      "end": "2026-04-08",
+      "year": "2026",
+      "title": "2026년 상반기 일반직(신입,경력), 연구직 및 별정직 채용공고",
+      "group": "일반직(사회형평(보훈),6급) - 화공",
+      "aply": 8,
+      "doc_pass": 8,
+      "doc_ratio": 1.0,
+      "final": 0,
+      "final_ratio": null,
+      "steps": 3,
+      "ratio": 1.0
+     },
+     {
+      "sn": 298440,
+      "end": "2026-04-08",
+      "year": "2026",
+      "title": "2026년 상반기 일반직(신입,경력), 연구직 및 별정직 채용공고",
+      "group": "연구직(연구원) - 화학촉매 반응공정 및 반응기 설계",
+      "aply": 53,
+      "doc_pass": 5,
+      "doc_ratio": 10.6,
+      "final": 1,
+      "final_ratio": 53.0,
+      "steps": 3,
+      "ratio": 53.0
+     },
+     {
+      "sn": 298440,
+      "end": "2026-04-08",
+      "year": "2026",
+      "title": "2026년 상반기 일반직(신입,경력), 연구직 및 별정직 채용공고",
+      "group": "연구직(연구원) - 전기화학 공정 설계 및 해석",
+      "aply": 48,
+      "doc_pass": 5,
+      "doc_ratio": 9.6,
+      "final": 1,
+      "final_ratio": 48.0,
+      "steps": 3,
+      "ratio": 48.0
+     },
+     {
+      "sn": 292998,
+      "end": "2025-09-11",
+      "year": "2025",
+      "title": "2025년 한국가스공사 하반기 일반직 및 연구직 채용공고",
+      "group": "일반직(신입,6급) - 화공",
+      "aply": 895,
+      "doc_pass": 877,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 1.0
+     },
+     {
+      "sn": 292998,
+      "end": "2025-09-11",
+      "year": "2025",
+      "title": "2025년 한국가스공사 하반기 일반직 및 연구직 채용공고",
+      "group": "사회형평(보훈,6급) - 화공",
+      "aply": 15,
+      "doc_pass": 15,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 1.0
+     },
+     {
+      "sn": 292998,
+      "end": "2025-09-11",
+      "year": "2025",
+      "title": "2025년 한국가스공사 하반기 일반직 및 연구직 채용공고",
+      "group": "연구직 - 배관검사 로봇 하드웨어 설계 및 소음진동 분석",
+      "aply": 12,
+      "doc_pass": 10,
+      "doc_ratio": 1.2,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 1.2
+     },
+     {
+      "sn": 273393,
+      "end": "2024-05-28",
+      "year": "2024",
+      "title": "2024년 한국가스공사 일반직(신입,경력), 별정직 및 연구직 채용공고",
+      "group": "일반직(신입) - 화공",
+      "aply": 558,
+      "doc_pass": 551,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.0
+     },
+     {
+      "sn": 273393,
+      "end": "2024-05-28",
+      "year": "2024",
+      "title": "2024년 한국가스공사 일반직(신입,경력), 별정직 및 연구직 채용공고",
+      "group": "연구직 - 탄소중립 친환경기술",
+      "aply": 12,
+      "doc_pass": 5,
+      "doc_ratio": 2.4,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 2.4
+     }
+    ]
+   },
+   "intern": {
+    "n": 16,
+    "latest": {
+     "sn": 303318,
+     "end": "2026-08-14",
+     "year": "2026",
+     "title": "2026년 하반기 고졸 채용형 인턴(7급) 채용공고",
+     "group": "채용형 인턴(7급) - 화공",
+     "aply": 135,
+     "doc_pass": 134,
+     "doc_ratio": 1.0,
+     "final": null,
+     "final_ratio": null,
+     "steps": 2,
+     "ratio": 1.0
+    },
+    "median_final": 26.0,
+    "n_final": 15,
+    "median_doc": 3.8,
+    "n_doc": 16,
+    "records": [
+     {
+      "sn": 303318,
+      "end": "2026-08-14",
+      "year": "2026",
+      "title": "2026년 하반기 고졸 채용형 인턴(7급) 채용공고",
+      "group": "채용형 인턴(7급) - 화공",
+      "aply": 135,
+      "doc_pass": 134,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 1.0
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "대구(본사) - 공급,생산운영/설비건설/안전,품질환경",
+      "aply": 449,
+      "doc_pass": 35,
+      "doc_ratio": 12.8,
+      "final": 12,
+      "final_ratio": 37.4,
+      "steps": 2,
+      "ratio": 37.4
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "평택기지본부 - 생산운영/설비건설/안전,품질환경",
+      "aply": 86,
+      "doc_pass": 32,
+      "doc_ratio": 2.7,
+      "final": 5,
+      "final_ratio": 17.2,
+      "steps": 2,
+      "ratio": 17.2
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "인천기지본부 - 생산운영/설비건설/안전,품질환경",
+      "aply": 84,
+      "doc_pass": 33,
+      "doc_ratio": 2.5,
+      "final": 4,
+      "final_ratio": 21.0,
+      "steps": 2,
+      "ratio": 21.0
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "통영기지본부 - 생산운영/설비건설/안전,품질환경",
+      "aply": 42,
+      "doc_pass": 13,
+      "doc_ratio": 3.2,
+      "final": 4,
+      "final_ratio": 10.5,
+      "steps": 2,
+      "ratio": 10.5
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "삼척기지본부 - 생산운영/설비건설/안전,품질환경",
+      "aply": 50,
+      "doc_pass": 13,
+      "doc_ratio": 3.8,
+      "final": 4,
+      "final_ratio": 12.5,
+      "steps": 2,
+      "ratio": 12.5
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "제주LNG본부 - 공급,생산운영/설비건설/안전,품질환경",
+      "aply": 74,
+      "doc_pass": 20,
+      "doc_ratio": 3.7,
+      "final": 5,
+      "final_ratio": 14.8,
+      "steps": 2,
+      "ratio": 14.8
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "서울지역본부 - 공급운영/설비건설/안전,품질환경",
+      "aply": 286,
+      "doc_pass": 30,
+      "doc_ratio": 9.5,
+      "final": 4,
+      "final_ratio": 71.5,
+      "steps": 2,
+      "ratio": 71.5
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "인천지역본부 - 공급운영/설비건설/안전,품질환경",
+      "aply": 115,
+      "doc_pass": 49,
+      "doc_ratio": 2.3,
+      "final": 5,
+      "final_ratio": 23.0,
+      "steps": 2,
+      "ratio": 23.0
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "경기지역본부 - 공급운영/설비건설/안전,품질환경",
+      "aply": 149,
+      "doc_pass": 13,
+      "doc_ratio": 11.5,
+      "final": 4,
+      "final_ratio": 37.2,
+      "steps": 2,
+      "ratio": 37.2
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "강원지역본부 - 공급운영/설비건설/안전,품질환경",
+      "aply": 62,
+      "doc_pass": 31,
+      "doc_ratio": 2.0,
+      "final": 4,
+      "final_ratio": 15.5,
+      "steps": 2,
+      "ratio": 15.5
+     },
+     {
+      "sn": 300932,
+      "end": "2026-06-05",
+      "year": "2026",
+      "title": "2026년 체험형 인턴 모집 공고",
+      "group": "대전충청지역본부 - 공급운영/설비건설/안전,품질환경",
+      "aply": 197,
+      "doc_pass": 11,
+      "doc_ratio": 17.9,
+      "final": 4,
+      "final_ratio": 49.2,
+      "steps": 2,
+      "ratio": 49.2
+     }
+    ]
+   }
+  },
+  "C0261": {
+   "name": "한국지역난방공사",
+   "regular": {
+    "n": 2,
+    "latest": {
+     "sn": 301381,
+     "end": "2026-06-20",
+     "year": "2026",
+     "title": "2026년 한국지역난방공사 신입직원 채용 공고",
+     "group": "일반_비수도권 지역인재 할당제 적용 외_기술(화공)",
+     "aply": 232,
+     "doc_pass": 100,
+     "doc_ratio": 2.3,
+     "final": null,
+     "final_ratio": null,
+     "steps": 2,
+     "ratio": 2.3
+    },
+    "median_final": null,
+    "n_final": 0,
+    "median_doc": 3.1,
+    "n_doc": 2,
+    "records": [
+     {
+      "sn": 301381,
+      "end": "2026-06-20",
+      "year": "2026",
+      "title": "2026년 한국지역난방공사 신입직원 채용 공고",
+      "group": "일반_비수도권 지역인재 할당제 적용 외_기술(화공)",
+      "aply": 232,
+      "doc_pass": 100,
+      "doc_ratio": 2.3,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 2.3
+     },
+     {
+      "sn": 301381,
+      "end": "2026-06-20",
+      "year": "2026",
+      "title": "2026년 한국지역난방공사 신입직원 채용 공고",
+      "group": "일반_비수도권 지역인재 할당제 적용_기술(화공)",
+      "aply": 237,
+      "doc_pass": 60,
+      "doc_ratio": 4.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 4.0
+     }
+    ]
+   }
+  },
+  "C0221": {
+   "name": "한국수자원공사",
+   "regular": {
+    "n": 2,
+    "latest": {
+     "sn": 300029,
+     "end": "2026-05-08",
+     "year": "2026",
+     "title": "[한국수자원공사] 2026년 상반기(2차) 신입사원 공채",
+     "group": "일반직(환경)",
+     "aply": 987,
+     "doc_pass": 490,
+     "doc_ratio": 2.0,
+     "final": 12,
+     "final_ratio": 82.2,
+     "steps": 4,
+     "ratio": 82.2
+    },
+    "median_final": 82.2,
+    "n_final": 1,
+    "median_doc": 1.5,
+    "n_doc": 2,
+    "records": [
+     {
+      "sn": 300029,
+      "end": "2026-05-08",
+      "year": "2026",
+      "title": "[한국수자원공사] 2026년 상반기(2차) 신입사원 공채",
+      "group": "일반직(환경)",
+      "aply": 987,
+      "doc_pass": 490,
+      "doc_ratio": 2.0,
+      "final": 12,
+      "final_ratio": 82.2,
+      "steps": 4,
+      "ratio": 82.2
+     },
+     {
+      "sn": 263854,
+      "end": "2023-11-29",
+      "year": "2023",
+      "title": "2023년 하반기(2차) 일반직 신입사원 보훈 공개채용",
+      "group": "환경",
+      "aply": 11,
+      "doc_pass": 11,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.0
+     }
+    ]
+   },
+   "intern": {
+    "n": 2,
+    "latest": {
+     "sn": 301095,
+     "end": "2026-06-11",
+     "year": "2026",
+     "title": "[한국수자원공사] 2026년 하반기 체험형 인턴 채용공고",
+     "group": "환경",
+     "aply": 613,
+     "doc_pass": 288,
+     "doc_ratio": 2.1,
+     "final": 64,
+     "final_ratio": 9.6,
+     "steps": 3,
+     "ratio": 9.6
+    },
+    "median_final": 10.7,
+    "n_final": 2,
+    "median_doc": 2.4,
+    "n_doc": 2,
+    "records": [
+     {
+      "sn": 301095,
+      "end": "2026-06-11",
+      "year": "2026",
+      "title": "[한국수자원공사] 2026년 하반기 체험형 인턴 채용공고",
+      "group": "환경",
+      "aply": 613,
+      "doc_pass": 288,
+      "doc_ratio": 2.1,
+      "final": 64,
+      "final_ratio": 9.6,
+      "steps": 3,
+      "ratio": 9.6
+     },
+     {
+      "sn": 298166,
+      "end": "2026-04-02",
+      "year": "2026",
+      "title": "[한국수자원공사] 2026년 상반기 체험형 인턴(단기형) 채용공고",
+      "group": "환경",
+      "aply": 379,
+      "doc_pass": 138,
+      "doc_ratio": 2.7,
+      "final": 32,
+      "final_ratio": 11.8,
+      "steps": 3,
+      "ratio": 11.8
+     }
+    ]
+   }
+  },
+  "C0066": {
+   "name": "한국동서발전",
+   "regular": {
+    "n": 2,
+    "latest": {
+     "sn": 298470,
+     "end": "2026-04-08",
+     "year": "2026",
+     "title": "한국동서발전(주) 2026년 하반기 신입직원(대졸수준(일반/보훈) 및 고졸, 별정직) 선발",
+     "group": "대졸일반-화학",
+     "aply": 945,
+     "doc_pass": 602,
+     "doc_ratio": 1.6,
+     "final": 5,
+     "final_ratio": 189.0,
+     "steps": 5,
+     "ratio": 189.0
+    },
+    "median_final": 98.8,
+    "n_final": 2,
+    "median_doc": 1.3,
+    "n_doc": 2,
+    "records": [
+     {
+      "sn": 298470,
+      "end": "2026-04-08",
+      "year": "2026",
+      "title": "한국동서발전(주) 2026년 하반기 신입직원(대졸수준(일반/보훈) 및 고졸, 별정직) 선발",
+      "group": "대졸일반-화학",
+      "aply": 945,
+      "doc_pass": 602,
+      "doc_ratio": 1.6,
+      "final": 5,
+      "final_ratio": 189.0,
+      "steps": 5,
+      "ratio": 189.0
+     },
+     {
+      "sn": 298470,
+      "end": "2026-04-08",
+      "year": "2026",
+      "title": "한국동서발전(주) 2026년 하반기 신입직원(대졸수준(일반/보훈) 및 고졸, 별정직) 선발",
+      "group": "대졸보훈-화학",
+      "aply": 17,
+      "doc_pass": 17,
+      "doc_ratio": 1.0,
+      "final": 2,
+      "final_ratio": 8.5,
+      "steps": 5,
+      "ratio": 8.5
+     }
+    ]
+   },
+   "intern": {
+    "n": 5,
+    "latest": {
+     "sn": 305408,
+     "end": "2026-02-11",
+     "year": "2026",
+     "title": "2026년도 한국동서발전(주) 체험형 인턴 선발",
+     "group": "본사(일반)_화학",
+     "aply": 59,
+     "doc_pass": 4,
+     "doc_ratio": 14.8,
+     "final": 2,
+     "final_ratio": 29.5,
+     "steps": 4,
+     "ratio": 29.5
+    },
+    "median_final": 30.0,
+    "n_final": 4,
+    "median_doc": 14.8,
+    "n_doc": 5,
+    "records": [
+     {
+      "sn": 305408,
+      "end": "2026-02-11",
+      "year": "2026",
+      "title": "2026년도 한국동서발전(주) 체험형 인턴 선발",
+      "group": "본사(일반)_화학",
+      "aply": 59,
+      "doc_pass": 4,
+      "doc_ratio": 14.8,
+      "final": 2,
+      "final_ratio": 29.5,
+      "steps": 4,
+      "ratio": 29.5
+     },
+     {
+      "sn": 305408,
+      "end": "2026-02-11",
+      "year": "2026",
+      "title": "2026년도 한국동서발전(주) 체험형 인턴 선발",
+      "group": "울산발전본부(일반)_화학",
+      "aply": 61,
+      "doc_pass": 4,
+      "doc_ratio": 15.2,
+      "final": 2,
+      "final_ratio": 30.5,
+      "steps": 4,
+      "ratio": 30.5
+     },
+     {
+      "sn": 305408,
+      "end": "2026-02-11",
+      "year": "2026",
+      "title": "2026년도 한국동서발전(주) 체험형 인턴 선발",
+      "group": "당진발전본부(일반)_화학",
+      "aply": 62,
+      "doc_pass": 6,
+      "doc_ratio": 10.3,
+      "final": 3,
+      "final_ratio": 20.7,
+      "steps": 4,
+      "ratio": 20.7
+     },
+     {
+      "sn": 305408,
+      "end": "2026-02-11",
+      "year": "2026",
+      "title": "2026년도 한국동서발전(주) 체험형 인턴 선발",
+      "group": "동해발전본부(일반)_화학",
+      "aply": 16,
+      "doc_pass": 2,
+      "doc_ratio": 8.0,
+      "final": 0,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 8.0
+     },
+     {
+      "sn": 305408,
+      "end": "2026-02-11",
+      "year": "2026",
+      "title": "2026년도 한국동서발전(주) 체험형 인턴 선발",
+      "group": "일산발전본부(일반)_화학",
+      "aply": 49,
+      "doc_pass": 2,
+      "doc_ratio": 24.5,
+      "final": 1,
+      "final_ratio": 49.0,
+      "steps": 4,
+      "ratio": 49.0
+     }
+    ]
+   }
+  },
+  "C0148": {
+   "name": "한국가스안전공사",
+   "intern": {
+    "n": 3,
+    "latest": {
+     "sn": 298222,
+     "end": "2026-04-03",
+     "year": "2026",
+     "title": "2026년 상반기 한국가스안전공사 정규직(채용형인턴 및 경력) 채용 공고",
+     "group": "신입_기술_검사점검(일반)_화공",
+     "aply": 703,
+     "doc_pass": 446,
+     "doc_ratio": 1.6,
+     "final": 29,
+     "final_ratio": 24.2,
+     "steps": 3,
+     "ratio": 24.2
+    },
+    "median_final": 33.6,
+    "n_final": 2,
+    "median_doc": 1.6,
+    "n_doc": 3,
+    "records": [
+     {
+      "sn": 298222,
+      "end": "2026-04-03",
+      "year": "2026",
+      "title": "2026년 상반기 한국가스안전공사 정규직(채용형인턴 및 경력) 채용 공고",
+      "group": "신입_기술_검사점검(일반)_화공",
+      "aply": 703,
+      "doc_pass": 446,
+      "doc_ratio": 1.6,
+      "final": 29,
+      "final_ratio": 24.2,
+      "steps": 3,
+      "ratio": 24.2
+     },
+     {
+      "sn": 298222,
+      "end": "2026-04-03",
+      "year": "2026",
+      "title": "2026년 상반기 한국가스안전공사 정규직(채용형인턴 및 경력) 채용 공고",
+      "group": "신입_기술_검사점검(장애인)_화공",
+      "aply": 1,
+      "doc_pass": 1,
+      "doc_ratio": 1.0,
+      "final": 0,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 1.0
+     },
+     {
+      "sn": 298222,
+      "end": "2026-04-03",
+      "year": "2026",
+      "title": "2026년 상반기 한국가스안전공사 정규직(채용형인턴 및 경력) 채용 공고",
+      "group": "신입_기술_안전진단평가(일반)_화공",
+      "aply": 43,
+      "doc_pass": 16,
+      "doc_ratio": 2.7,
+      "final": 1,
+      "final_ratio": 43.0,
+      "steps": 3,
+      "ratio": 43.0
+     }
+    ]
+   }
+  },
+  "C0082": {
+   "name": "한국서부발전",
+   "regular": {
+    "n": 8,
+    "latest": {
+     "sn": 299453,
+     "end": "2026-02-13",
+     "year": "2026",
+     "title": "2026년도 상반기 4직급 대졸 신입사원 모집 공고",
+     "group": "화학(일반)",
+     "aply": 631,
+     "doc_pass": 214,
+     "doc_ratio": 2.9,
+     "final": null,
+     "final_ratio": null,
+     "steps": 3,
+     "ratio": 2.9
+    },
+    "median_final": 9.0,
+    "n_final": 3,
+    "median_doc": 1.0,
+    "n_doc": 8,
+    "records": [
+     {
+      "sn": 299453,
+      "end": "2026-02-13",
+      "year": "2026",
+      "title": "2026년도 상반기 4직급 대졸 신입사원 모집 공고",
+      "group": "화학(일반)",
+      "aply": 631,
+      "doc_pass": 214,
+      "doc_ratio": 2.9,
+      "final": null,
+      "final_ratio": null,
+      "steps": 3,
+      "ratio": 2.9
+     },
+     {
+      "sn": 299453,
+      "end": "2026-02-13",
+      "year": "2026",
+      "title": "2026년도 상반기 4직급 대졸 신입사원 모집 공고",
+      "group": "화학(보훈)",
+      "aply": 9,
+      "doc_pass": 9,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 3,
+      "ratio": 1.0
+     },
+     {
+      "sn": 292546,
+      "end": "2025-09-30",
+      "year": "2025",
+      "title": "2025년도 하반기 상생가치형 사회형평채용 4직급 대졸 신입사원 모집공고",
+      "group": "화학(보훈)",
+      "aply": 13,
+      "doc_pass": 13,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 1.0
+     },
+     {
+      "sn": 292546,
+      "end": "2025-09-30",
+      "year": "2025",
+      "title": "2025년도 하반기 상생가치형 사회형평채용 4직급 대졸 신입사원 모집공고",
+      "group": "화학(장애)",
+      "aply": 4,
+      "doc_pass": 4,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 1.0
+     },
+     {
+      "sn": 286368,
+      "end": "2025-05-06",
+      "year": "2025",
+      "title": "2025년도 상반기 4직급 신입사원 모집공고",
+      "group": "화학(일반)",
+      "aply": 578,
+      "doc_pass": 518,
+      "doc_ratio": 1.1,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.1
+     },
+     {
+      "sn": 271720,
+      "end": "2024-03-12",
+      "year": "2024",
+      "title": "2024년도 4직급 신입사원 모집공고",
+      "group": "화학(일반)",
+      "aply": 408,
+      "doc_pass": 200,
+      "doc_ratio": 2.0,
+      "final": 7,
+      "final_ratio": 58.3,
+      "steps": 4,
+      "ratio": 58.3
+     },
+     {
+      "sn": 271720,
+      "end": "2024-03-12",
+      "year": "2024",
+      "title": "2024년도 4직급 신입사원 모집공고",
+      "group": "화학(보훈)",
+      "aply": 9,
+      "doc_pass": 9,
+      "doc_ratio": 1.0,
+      "final": 1,
+      "final_ratio": 9.0,
+      "steps": 4,
+      "ratio": 9.0
+     },
+     {
+      "sn": 271720,
+      "end": "2024-03-12",
+      "year": "2024",
+      "title": "2024년도 4직급 신입사원 모집공고",
+      "group": "화학(장애)",
+      "aply": 6,
+      "doc_pass": 6,
+      "doc_ratio": 1.0,
+      "final": 1,
+      "final_ratio": 6.0,
+      "steps": 4,
+      "ratio": 6.0
+     }
+    ]
+   }
+  },
+  "C0220": {
+   "name": "한국수력원자력",
+   "regular": {
+    "n": 5,
+    "latest": {
+     "sn": 271590,
+     "end": "2024-03-21",
+     "year": "2024",
+     "title": "2024년도 제1차 경력사원(연구·전문원) 선발",
+     "group": "방사성폐기물 특성평가",
+     "aply": 9,
+     "doc_pass": 5,
+     "doc_ratio": 1.8,
+     "final": null,
+     "final_ratio": null,
+     "steps": 1,
+     "ratio": 1.8
+    },
+    "median_final": null,
+    "n_final": 0,
+    "median_doc": 2.6,
+    "n_doc": 5,
+    "records": [
+     {
+      "sn": 271590,
+      "end": "2024-03-21",
+      "year": "2024",
+      "title": "2024년도 제1차 경력사원(연구·전문원) 선발",
+      "group": "방사성폐기물 특성평가",
+      "aply": 9,
+      "doc_pass": 5,
+      "doc_ratio": 1.8,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.8
+     },
+     {
+      "sn": 271590,
+      "end": "2024-03-21",
+      "year": "2024",
+      "title": "2024년도 제1차 경력사원(연구·전문원) 선발",
+      "group": "i-SMR 방사성폐기물계통 설계 및 방사선방호 기술",
+      "aply": 4,
+      "doc_pass": 3,
+      "doc_ratio": 1.3,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.3
+     },
+     {
+      "sn": 271590,
+      "end": "2024-03-21",
+      "year": "2024",
+      "title": "2024년도 제1차 경력사원(연구·전문원) 선발",
+      "group": "방사선기술(방재환경·방사성폐기물관리 기술)",
+      "aply": 28,
+      "doc_pass": 5,
+      "doc_ratio": 5.6,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 5.6
+     },
+     {
+      "sn": 271590,
+      "end": "2024-03-21",
+      "year": "2024",
+      "title": "2024년도 제1차 경력사원(연구·전문원) 선발",
+      "group": "재료열화/수화학기술(증기발생기 건전성 평가)",
+      "aply": 13,
+      "doc_pass": 5,
+      "doc_ratio": 2.6,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 2.6
+     },
+     {
+      "sn": 271590,
+      "end": "2024-03-21",
+      "year": "2024",
+      "title": "2024년도 제1차 경력사원(연구·전문원) 선발",
+      "group": "내환경검증 성능검증",
+      "aply": 13,
+      "doc_pass": 3,
+      "doc_ratio": 4.3,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 4.3
+     }
+    ]
+   }
+  },
+  "C0400": {
+   "name": "한국환경공단",
+   "regular": {
+    "n": 3,
+    "latest": {
+     "sn": 271010,
+     "end": "2024-04-15",
+     "year": "2024",
+     "title": "2024년도 한국환경공단 신입직원 채용 공고",
+     "group": "기술직 6급(화공)",
+     "aply": 182,
+     "doc_pass": 100,
+     "doc_ratio": 1.8,
+     "final": null,
+     "final_ratio": null,
+     "steps": 1,
+     "ratio": 1.8
+    },
+    "median_final": null,
+    "n_final": 0,
+    "median_doc": 1.7,
+    "n_doc": 3,
+    "records": [
+     {
+      "sn": 271010,
+      "end": "2024-04-15",
+      "year": "2024",
+      "title": "2024년도 한국환경공단 신입직원 채용 공고",
+      "group": "기술직 6급(화공)",
+      "aply": 182,
+      "doc_pass": 100,
+      "doc_ratio": 1.8,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.8
+     },
+     {
+      "sn": 271010,
+      "end": "2024-04-15",
+      "year": "2024",
+      "title": "2024년도 한국환경공단 신입직원 채용 공고",
+      "group": "기술직 6급(환경)",
+      "aply": 839,
+      "doc_pass": 507,
+      "doc_ratio": 1.7,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.7
+     },
+     {
+      "sn": 271010,
+      "end": "2024-04-15",
+      "year": "2024",
+      "title": "2024년도 한국환경공단 신입직원 채용 공고",
+      "group": "기술직 8급(고졸(환경))",
+      "aply": 23,
+      "doc_pass": 23,
+      "doc_ratio": 1.0,
+      "final": null,
+      "final_ratio": null,
+      "steps": 1,
+      "ratio": 1.0
+     }
+    ]
+   }
+  },
+  "C0046": {
+   "name": "한국농어촌공사",
+   "regular": {
+    "n": 1,
+    "latest": {
+     "sn": 261279,
+     "end": "2023-10-11",
+     "year": "2023",
+     "title": "2023년도 직무중심 신입사원(5급,6급) 채용 공고",
+     "group": "5급(환경)",
+     "aply": 236,
+     "doc_pass": 148,
+     "doc_ratio": 1.6,
+     "final": null,
+     "final_ratio": null,
+     "steps": 2,
+     "ratio": 1.6
+    },
+    "median_final": null,
+    "n_final": 0,
+    "median_doc": 1.6,
+    "n_doc": 1,
+    "records": [
+     {
+      "sn": 261279,
+      "end": "2023-10-11",
+      "year": "2023",
+      "title": "2023년도 직무중심 신입사원(5급,6급) 채용 공고",
+      "group": "5급(환경)",
+      "aply": 236,
+      "doc_pass": 148,
+      "doc_ratio": 1.6,
+      "final": null,
+      "final_ratio": null,
+      "steps": 2,
+      "ratio": 1.6
+     }
+    ]
+   }
+  }
+ },
+ "salary": {
+  "C0105": {
+   "name": "인천국제공항공사",
+   "first": 50406,
+   "avg": 95034
+  },
+  "C0147": {
+   "name": "한국가스공사",
+   "first": 52626,
+   "avg": 103179
+  },
+  "C0148": {
+   "name": "한국가스안전공사",
+   "first": 45627,
+   "avg": 76774
+  },
+  "C0042": {
+   "name": "한국남동발전(주)",
+   "first": 46240,
+   "avg": 89569
+  },
+  "C0043": {
+   "name": "한국남부발전(주)",
+   "first": 48620,
+   "avg": 92955
+  },
+  "C0046": {
+   "name": "한국농어촌공사",
+   "first": 38400,
+   "avg": 78228
+  },
+  "C0066": {
+   "name": "한국동서발전(주)",
+   "first": 48063,
+   "avg": 90316
+  },
+  "C0082": {
+   "name": "한국서부발전(주)",
+   "first": 51558,
+   "avg": 92508
+  },
+  "C0215": {
+   "name": "한국석유관리원",
+   "first": 41984,
+   "avg": 72224
+  },
+  "C0220": {
+   "name": "한국수력원자력(주)",
+   "first": 45964,
+   "avg": 98710
+  },
+  "C0221": {
+   "name": "한국수자원공사",
+   "first": 41948,
+   "avg": 79132
+  },
+  "C0259": {
+   "name": "한국중부발전(주)",
+   "first": 50116,
+   "avg": 95201
+  },
+  "C0261": {
+   "name": "한국지역난방공사",
+   "first": 39116,
+   "avg": 85232
+  },
+  "C0400": {
+   "name": "한국환경공단",
+   "first": 37976,
+   "avg": 66105
+  }
+ },
+ "salary_year": "2026"
+}
