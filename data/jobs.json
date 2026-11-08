@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-02 08:16",
+ "collected_at": "2026-11-09 08:03",
  "source": "alio-site",
  "targets": {
   "C0221": "한국수자원공사",
@@ -69,65 +69,23 @@
  "jobs": [
   {
    "src": "cleaneye",
-   "id": "ce-2026-2007100323-000006",
+   "id": "ce-2026-2007100313-000037",
    "code": "",
-   "inst": "광주환경공단",
-   "title": "2026년 광주환경공단 청년 체험형 인턴 채용",
-   "hire": "인턴",
-   "se": "신입+경력",
-   "ncs": "",
-   "region": "전남광주",
-   "edu": "",
-   "nope": null,
-   "local": true,
-   "beg": "2026-10-29",
-   "end": "2026-11-04",
-   "url": "https://job.cleaneye.go.kr/user/ypCareersData.do?empyear=2026&ypEntId=2007100323&entSeq=000006",
-   "src_url": "",
-   "target": false,
-   "first_seen": "2026-10-30",
-   "new": true
-  },
-  {
-   "src": "cleaneye",
-   "id": "ce-2026-2007100364-000064",
-   "code": "",
-   "inst": "인천환경공단",
-   "title": "인천환경공단 공고 제2026-218호 2026년 3차 공개경쟁채용 공고",
+   "inst": "속초시시설관리공단",
+   "title": "2026년 제3회 속초시시설관리공단 신규직원(환경공무관) 채용공고",
    "hire": "정규직",
    "se": "신입",
    "ncs": "",
-   "region": "인천",
+   "region": "강원",
    "edu": "",
    "nope": null,
    "local": true,
-   "beg": "2026-10-26",
-   "end": "2026-11-04",
-   "url": "https://job.cleaneye.go.kr/user/ypCareersData.do?empyear=2026&ypEntId=2007100364&entSeq=000064",
+   "beg": "2026-11-03",
+   "end": "2026-11-09",
+   "url": "https://job.cleaneye.go.kr/user/ypCareersData.do?empyear=2026&ypEntId=2007100313&entSeq=000037",
    "src_url": "",
    "target": false,
-   "first_seen": "2026-10-28",
-   "new": true
-  },
-  {
-   "src": "alio",
-   "id": "alio-306250",
-   "sn": 306250,
-   "code": "C0035",
-   "inst": "근로복지공단",
-   "title": "[울산병원] 기술기능직(기술_환경관리) 채용 공고",
-   "hire": "정규직",
-   "se": "신입+경력",
-   "ncs": "환경.에너지.안전",
-   "region": "울산",
-   "edu": "학력무관",
-   "nope": 1,
-   "beg": "2026-10-22",
-   "end": "2026-11-05",
-   "url": "https://job.alio.go.kr/recruitview.do?idx=306250",
-   "src_url": "https://www.comwel.or.kr/recruit/hp/main.do",
-   "target": false,
-   "first_seen": "2026-10-28",
+   "first_seen": "2026-11-09",
    "new": true
   },
   {
@@ -149,10 +107,34 @@
    "src_url": "https://kospo.machuda.kr",
    "target": true,
    "first_seen": "2026-10-28",
+   "new": false
+  },
+  {
+   "src": "cleaneye",
+   "id": "ce-2026-2017000008-000063",
+   "code": "",
+   "inst": "서울교통공사",
+   "title": "서울도시철도그린환경(주) 2026년 하반기 공무직 공개채용 공고",
+   "hire": "정규직",
+   "se": "신입",
+   "ncs": "",
+   "region": "서울",
+   "edu": "",
+   "nope": null,
+   "local": false,
+   "beg": "2026-11-09",
+   "end": "2026-11-19",
+   "url": "https://job.cleaneye.go.kr/user/ypCareersData.do?empyear=2026&ypEntId=2017000008&entSeq=000063",
+   "src_url": "",
+   "target": false,
+   "first_seen": "2026-11-09",
    "new": true
   }
  ],
- "new": [],
+ "new": [
+  "ce-2026-2007100313-000037",
+  "ce-2026-2017000008-000063"
+ ],
  "seen": {
   "alio-305987": "2026-10-28",
   "ce-2026-2007100364-000064": "2026-10-28",
@@ -160,7 +142,9 @@
   "ce-2026-2007100278-000027": "2026-10-28",
   "ce-2026-2014000008-000066": "2026-10-28",
   "alio-306325": "2026-10-28",
-  "ce-2026-2007100323-000006": "2026-10-30"
+  "ce-2026-2007100323-000006": "2026-10-30",
+  "ce-2026-2007100313-000037": "2026-11-09",
+  "ce-2026-2017000008-000063": "2026-11-09"
  },
  "compete": {
   "C0042": {
